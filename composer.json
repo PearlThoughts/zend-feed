@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-feed",
+    "name": "pearlthoughts/zend-feed",
     "description": "provides functionality for consuming RSS and Atom feeds",
     "license": "BSD-3-Clause",
     "keywords": [
